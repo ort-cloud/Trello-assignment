@@ -11,4 +11,5 @@ function Card(props) {
   );
 }
 
+Card.defaultProps = { title: [] }
 export default Card;
