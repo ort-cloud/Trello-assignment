@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDom from "react-dom";
-import List from "./list";
+import List from "./List";
 import renderer from "react-test-renderer";
 
 it("renders without crashing", () => {

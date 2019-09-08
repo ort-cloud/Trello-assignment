@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDom from "react-dom";
-import Card from "./card";
+import Card from "./Card";
 import renderer from "react-test-renderer";
 
 it("renders without crashing", () => {
